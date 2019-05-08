@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/MusicPlaylistAnalyzer.exe
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Debug/MusicPlaylistAnalyzer.pdb
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/x86/Debug/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/x86/Debug/MusicPlaylistAnalyzer.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/x86/Debug/MusicPlaylistAnalyzer.exe
+/Users/JohnWilliams/Documents/IT2040/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/x86/Debug/MusicPlaylistAnalyzer.pdb
